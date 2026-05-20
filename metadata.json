@@ -1,0 +1,6 @@
+{
+  "name": "EduSmart",
+  "description": "Ứng dụng quản lý học tập thông minh với hơn 10 tính năng như TKB, bài tập, Pomodoro, flashcard, tính điểm và trợ lý AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
